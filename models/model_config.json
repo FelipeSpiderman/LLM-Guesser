@@ -1,0 +1,27 @@
+{
+  "IMG_SIZE": 224,
+  "NUM_CLASSES": 17,
+  "CLASS_NAMES": [
+    "Angelina Jolie",
+    "Brad Pitt",
+    "Denzel Washington",
+    "Hugh Jackman",
+    "Jennifer Lawrence",
+    "Johnny Depp",
+    "Kate Winslet",
+    "Leonardo DiCaprio",
+    "Megan Fox",
+    "Natalie Portman",
+    "Nicole Kidman",
+    "Robert Downey Jr",
+    "Sandra Bullock",
+    "Scarlett Johansson",
+    "Tom Cruise",
+    "Tom Hanks",
+    "Will Smith"
+  ],
+  "MODEL_TYPE": "transfer",
+  "best_val_accuracy": 0.5027777552604675,
+  "best_epoch": 5,
+  "total_epochs_trained": 8
+}
